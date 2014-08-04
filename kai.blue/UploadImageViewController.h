@@ -1,0 +1,4 @@
+
+@interface UploadImageViewController : UIViewController
+
+@end
